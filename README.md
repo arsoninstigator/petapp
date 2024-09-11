@@ -1,6 +1,12 @@
 # pet adoption app
 a pet adoption app that allows users to select available animals (from rescue shelters) and offer them a new home and proper care. there should be a chat feature so users can reach out to the shelter after viewing basic yet vital information about the animal (size, breed, dietary restrictions, favourite activities) on the app and deciding that they want to rescue them.
 
+<p>
+![ss1](https://github.com/user-attachments/assets/36405c08-9c69-47a6-847a-1917f8787c9c)
+![ss2](https://github.com/user-attachments/assets/67fa315d-77a5-4cdb-9c34-a65933bf09ec)
+</p>
+
+
 # build and run app
 
 To see how your app looks and behaves on a device, you need to build and run it. Android Studio sets up new projects so that you can deploy your app to a virtual or a physical device with just a few clicks.
