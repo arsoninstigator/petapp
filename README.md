@@ -1,9 +1,9 @@
 # pet adoption app
 a pet adoption app that allows users to select available animals (from rescue shelters) and offer them a new home and proper care. there should be a chat feature so users can reach out to the shelter after viewing basic yet vital information about the animal (size, breed, dietary restrictions, favourite activities) on the app and deciding that they want to rescue them.
 
-<p>
-![ss1](https://github.com/user-attachments/assets/36405c08-9c69-47a6-847a-1917f8787c9c)
-![ss2](https://github.com/user-attachments/assets/67fa315d-77a5-4cdb-9c34-a65933bf09ec)
+<p float="left">
+<img width="300" alt="3dview" src="scraps/ss1.jpg">
+<img width="300" alt="3dview" src="scraps/ss2.jpg">
 </p>
 
 
